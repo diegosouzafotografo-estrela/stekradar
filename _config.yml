@@ -1,0 +1,8 @@
+title: StekRadar
+description: Find the best gear for your kitchen. Tested in a real kitchen, honestly.
+url: "https://diegosouzafotografo-estrela.github.io"
+baseurl: "/stekradar"
+markdown: kramdown
+theme: minima
+future: true
+permalink: /:title/
