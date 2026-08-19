@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Chef Knives for Home Cooks in 2026"
+description: "Best chef knives for home cooks in 2026 — Wüsthof, Victorinox, Mac and Shun, tested in a real kitchen."
 date: 2026-08-19
 categories: best
 ---

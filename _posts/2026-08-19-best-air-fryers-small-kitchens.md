@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Air Fryers for Small Kitchens in 2026"
+description: "Best air fryers for small kitchens in 2026 — Ninja, Cosori and Instant Vortex Slim, tested."
 date: 2026-08-19
 categories: best
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cast Iron vs Stainless Steel Pans: Which Should You Buy?"
+description: "Cast iron vs stainless steel pans: which should you buy? Honest comparison of sear, maintenance and price."
 date: 2026-08-19
 categories: vs
 ---

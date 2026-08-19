@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Stand Mixers for Home Bakers in 2026"
+description: "Best stand mixers for home bakers in 2026 — KitchenAid, Cuisinart, Smeg and Hamilton Beach compared."
 date: 2026-08-19
 categories: best
 ---
